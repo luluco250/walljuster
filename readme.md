@@ -17,4 +17,5 @@ Read the usage text with `walljuster.py -h`.
 
 There are many improvements to be made, such as vertical slicing (currently it
 is done only horizontally) and resampling (allowing an image to be resized to
-fit the total resolution). A GUI is mandatory too, with a preview of the result.
+fit the total resolution). A GUI is mandatory too, with a preview of the result
+and visual editing/guides.
