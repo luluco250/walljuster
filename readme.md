@@ -1,7 +1,8 @@
 # Walljuster
 
 Simple Python script for splitting an image for use as a single wallpaper spread
-across multiple monitors.
+across multiple monitors. **Requires the pillow library to be installed**, you
+can do so through `pip install pillow`.
 
 Sample usage:
 
@@ -13,3 +14,7 @@ having a -200 pixels vertical offset (going up) and a global 800
 pixels vertical offset (going down).
 
 Read the usage text with `walljuster.py -h`.
+
+There are many improvements to be made, such as vertical slicing (currently it
+is done only horizontally) and resampling (allowing an image to be resized to
+fit the total resolution). A GUI is mandatory too, with a preview of the result.
