@@ -15,8 +15,13 @@ pixels vertical offset (going down).
 
 Read the usage text with `walljuster.py -h`.
 
-There are many improvements to be made, such as vertical slicing (currently it
-is done only horizontally) and resampling (allowing an image to be resized to
-fit the total resolution). A GUI is mandatory too, with a preview of the result
-and visual editing/guides. Automatically setting the wallpaper(s) from within
-the program would be nice too.
+There are many improvements to be made, such as:
+- Vertical slicing (currently it is done only horizontally).
+- Resampling, allowing an image to be resized to
+fit the total resolution).
+- A GUI is mandatory too, with a preview of the result and visual 
+editing/guides.
+- Automatically setting the wallpaper(s) from within
+the program would be nice too. XFCE seems to automatically apply any changes to
+images set as wallpapers, so it's already possible to make adjustments on the
+fly.
