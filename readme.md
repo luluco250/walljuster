@@ -22,6 +22,7 @@ fit the total resolution).
 - A GUI is mandatory too, with a preview of the result and visual 
 editing/guides.
 - Automatically setting the wallpaper(s) from within
-the program would be nice too. XFCE seems to automatically apply any changes to
+the program would be nice too.
+  - XFCE seems to automatically apply any changes to
 images set as wallpapers, so it's already possible to make adjustments on the
 fly.
