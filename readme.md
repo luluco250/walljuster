@@ -25,4 +25,4 @@ editing/guides.
 the program would be nice too.
   - XFCE seems to automatically apply any changes to
 images set as wallpapers, so it's already possible to make adjustments on the
-fly.
+fly in this way.
